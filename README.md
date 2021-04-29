@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working at @PublicumFr as CEO
-- 🚀 I'm currently involved in @w3c WAI translations.
+- 🔭 I'm currently working at [@Publicum](https://github.com/publicumfr) as CEO
+- 🚀 I'm currently involved in [@w3c](https://github.com/w3C) WAI translations.
 
 <!--
 **remibetin/remibetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
